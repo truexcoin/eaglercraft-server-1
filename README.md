@@ -15,7 +15,7 @@ YouTube Mirror: https://www.youtube.com/watch?v=As99AOL_-vM
 Here in case it helps!
 
 ## Usage:
-Fork it, and press "Run" at the top to run the server!
+Fork it, and press "Run" at the top to run the server! j
 
 ##
 
